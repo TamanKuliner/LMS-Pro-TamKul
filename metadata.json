@@ -1,0 +1,6 @@
+{
+  "name": "LMS Pro TamanKuliner.com - Digitalisasi UMKM Syariah",
+  "description": "Software Infrastruktur Platform LMS Pro TamanKuliner.com cerdas berbasis cloud dengan monitoring real-time, multi-cloud, CI/CD, E2EE, dan kurikulum Pelatihan Digitalisasi UMKM Berbasis Syariah (7 JP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
